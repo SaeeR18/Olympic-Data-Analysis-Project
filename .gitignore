@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+.*.crc
+_SUCCESS
+.DS_Store
+Thumbs.db
+.vscode/
